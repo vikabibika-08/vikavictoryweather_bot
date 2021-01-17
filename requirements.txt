@@ -72,4 +72,4 @@ PySocks==1.7.1
 pyTelegramBotAPI==3.7.5
 pytest==6.2.1
 python-dateutil==1.5
-
+requests==2.0.0
